@@ -1,16 +1,16 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "CLI for the SMALL Protocol - deterministic execution state for auditable, resumable AI-assisted engineering workflows",
   "homepage": "https://smallprotocol.dev",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.8/small-v1.0.8-windows-amd64.zip",
-      "hash": "7c8f4aa6467a222ebe30ac9fd3af21b5ae3232abf4d15304b1be18f2034cde53"
+      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.9/small-v1.0.9-windows-amd64.zip",
+      "hash": "0a50a458f3e959cb4ed9c24f940a049c68248f6c57769743a2b50e12035279cb"
     },
     "arm64": {
-      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.8/small-v1.0.8-windows-arm64.zip",
-      "hash": "1ba884e3d58409ab3f56a9f72252492d90a4201fa017eb5ccf8b6050e3e2bb59"
+      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.9/small-v1.0.9-windows-arm64.zip",
+      "hash": "4d822fa9e1cbf59b5fe5de578d378acb6beee121246fb6c49a14074c7a091811"
     }
   },
   "bin": "small.exe",

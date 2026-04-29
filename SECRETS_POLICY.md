@@ -32,6 +32,10 @@ Apps and tools should load runtime env from that external path via wrappers, `ju
 Agents should never read or write real `.env` files inside the repo.
 If runtime configuration is needed, use the external JCN env path convention instead.
 
+## Bucket-specific note
+
+This Scoop bucket currently ships static manifest JSON only. Release URLs, hashes, and version metadata belong in the manifest; credentials, API tokens, signing keys, and private download links do not.
+
 ## Commit guardrail
 
 A shared git hook blocks committing forbidden `.env` files.

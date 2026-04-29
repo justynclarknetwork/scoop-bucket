@@ -5,12 +5,12 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.9/small-v1.0.9-windows-amd64.zip",
-      "hash": "0a50a458f3e959cb4ed9c24f940a049c68248f6c57769743a2b50e12035279cb"
+      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.10/small-v1.0.10-windows-amd64.zip",
+      "hash": "797e265d9325d4ec8b03cca9c969992d99b0ac8dc1c701966d95b0e3940d6f92"
     },
     "arm64": {
-      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.9/small-v1.0.9-windows-arm64.zip",
-      "hash": "4d822fa9e1cbf59b5fe5de578d378acb6beee121246fb6c49a14074c7a091811"
+      "url": "https://github.com/justyn-clark/small-protocol/releases/download/v1.0.10/small-v1.0.10-windows-arm64.zip",
+      "hash": "54fa53ebb49d459e8074fd6549de13a448ff6cb99b8b8f29786b8a6ba9d2c52b"
     }
   },
   "bin": "small.exe",

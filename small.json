@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "CLI for the SMALL Protocol - deterministic execution state for auditable, resumable AI-assisted engineering workflows",
   "homepage": "https://smallprotocol.dev",
   "license": "Apache-2.0",
